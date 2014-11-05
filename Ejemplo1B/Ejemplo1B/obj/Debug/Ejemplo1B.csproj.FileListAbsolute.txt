@@ -1,0 +1,5 @@
+C:\Users\MaríadelosÁngeles\documents\visual studio 2012\Projects\Ejemplo1B\Ejemplo1B\bin\Ejemplo1B.dll
+C:\Users\MaríadelosÁngeles\documents\visual studio 2012\Projects\Ejemplo1B\Ejemplo1B\bin\Ejemplo1B.pdb
+C:\Users\MaríadelosÁngeles\documents\visual studio 2012\Projects\Ejemplo1B\Ejemplo1B\obj\Debug\Ejemplo1B.csprojResolveAssemblyReference.cache
+C:\Users\MaríadelosÁngeles\documents\visual studio 2012\Projects\Ejemplo1B\Ejemplo1B\obj\Debug\Ejemplo1B.dll
+C:\Users\MaríadelosÁngeles\documents\visual studio 2012\Projects\Ejemplo1B\Ejemplo1B\obj\Debug\Ejemplo1B.pdb
